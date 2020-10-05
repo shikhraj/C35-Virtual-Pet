@@ -83,4 +83,3 @@ function addFoods(){
   });
   dog.addImage(dogImg);
 }
-
